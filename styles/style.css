@@ -163,7 +163,7 @@ section {
 .call-now {
     background-image: url('../images/watch.png'), url('../images/gradient2.png');
     background-blend-mode: lighten;
-    margin: 0 230px;
+    margin: 130px 230px 0 230px;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 60px 60px;
