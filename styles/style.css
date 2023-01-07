@@ -132,6 +132,33 @@ section {
     color: #737272;
 }
 
+/* service section styles */
+.service {
+    background-color: #F9F9F9;
+    padding: 130px 230px;
+}
+
+.service-container {
+    display: flex;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.service-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.service-description {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #444343;
+}
+
 /* call-now section styles */
 .call-now {
     background-image: url('../images/watch.png'), url('../images/gradient2.png');
@@ -204,7 +231,7 @@ input {
     width: 325px;
     border-radius: 8px;
     background-color: #151414;
-    padding:0 20px 0 20px;
+    padding: 0 20px 0 20px;
     color: #FFFFFF;
 }
 
