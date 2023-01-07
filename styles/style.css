@@ -52,3 +52,82 @@ header {
     line-height: 23px;
     color: #FFFFFF;
 }
+
+section {
+    padding: 0px 230px;
+}
+
+/* failure section styels */
+.failure {
+    display: flex;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    justify-content: space-between;
+    gap: 80px;
+
+
+}
+
+.failure-info {
+    margin-top: 240px;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.section-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.failure-text-list {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.failure-text-list li {
+    list-style: none;
+}
+
+.failure-text-list li img {
+    margin-right: 10px;
+}
+
+/* plan section styles */
+.plan {
+    text-align: center;
+}
+
+.plan-info-box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 130px
+}
+
+.plan-info .info-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.plan-info .info-description {
+
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
